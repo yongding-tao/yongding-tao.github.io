@@ -44,13 +44,13 @@ My current research interests are mainly focused on AI for Software Engineering 
 </div>
 </div> -->
 
-- [ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large Language Models for Code Generation](https://arxiv.org/pdf/2411.07112), Xue Jiang, Yihong Dong, <u>Yongding Tao</u>, Huanyu Liu, Zhi Jin, Wenpin Jiao, Ge Li, **ICSE 2025**
+- [ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large Language Models for Code Generation](https://arxiv.org/pdf/2411.07112), Xue Jiang, Yihong Dong, **<u>Yongding Tao</u>**, Huanyu Liu, Zhi Jin, Wenpin Jiao, Ge Li, **ICSE 2025**
 
-- [A Novel Window-Interaction Module Based on W-MSA](https://openreview.net/pdf?id=ki4R0z0C4K), Ruochen Cui, <u>Yongding Tao</u>, Mingjun Ni∗, **Tiny Paper at ICLR 2024**
+- [A Novel Window-Interaction Module Based on W-MSA](https://openreview.net/pdf?id=ki4R0z0C4K), Ruochen Cui, **<u>Yongding Tao</u>**, Mingjun Ni∗, **Tiny Paper at ICLR 2024**
 
 # 📝 Preprints
 
-- [FAN: Fourier Analysis Networks](https://arxiv.org/pdf/2410.02675), Yihong Dong, Ge Li, <u>Yongding Tao</u>, Xue Jiang, Kechi Zhang, Jia Li, Jing Su, Jun Zhang, Jingjing Xu
+- [FAN: Fourier Analysis Networks](https://arxiv.org/pdf/2410.02675), Yihong Dong, Ge Li, **<u>Yongding Tao</u>**, Xue Jiang, Kechi Zhang, Jia Li, Jing Su, Jun Zhang, Jingjing Xu
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -65,4 +65,4 @@ My current research interests are mainly focused on AI for Software Engineering 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.11 - now*, [Ant Group](https://github.com/), Shenzhen, China.
+- *2024.11 - Present*, Research Intern, [Ant Group](https://www.antgroup.com/en), Shenzhen, China.
