@@ -50,6 +50,8 @@ My current research interests are mainly focused on AI for Software Engineering 
 
 # 📝 Preprints
 
+- [FANformer: Improving Large Language Models Through Effective Periodicity Modeling](https://arxiv.org/abs/2502.21309), Yihong Dong, Ge Li, Xue Jiang, **<u>Yongding Tao</u>**, Kechi Zhang, Hao Zhu, Huanyu Liu, Jiazheng Ding, Jia Li, Jinliang Deng, Hong Mei
+
 - [FAN: Fourier Analysis Networks](https://arxiv.org/pdf/2410.02675), Yihong Dong, Ge Li, **<u>Yongding Tao</u>**, Xue Jiang, Kechi Zhang, Jia Li, Jing Su, Jun Zhang, Jingjing Xu
 
 <!-- # 🎖 Honors and Awards
