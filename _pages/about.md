@@ -26,9 +26,14 @@ Hi, I'm a final year undergraduate student from School of Mathematics, UESTC, an
 My current research interests are mainly focused on AI for Software Engineering (AI4SE), encompassing software engineering and natural language processing (NLP) technologies.
 
 
-# 🔥 News
-- *2024.11*: &nbsp;🎉🎉 I have joined Ant Group to conduct research on AI for Software Engineering (AI4SE)!
+<!-- # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 I have joined Ant Group to conduct research on AI for Software Engineering (AI4SE)! -->
+
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+# 📝 Preprints
+
+- [**arXiv 2508**][RL-PLUS: Countering Capability Boundary Collapse of LLMs in Reinforcement Learning with Hybrid-policy Optimization](https://arxiv.org/abs/2508.00222), Yihong Dong, Xue Jiang, **<u>Yongding Tao</u>**, Huanyu Liu, Kechi Zhang, Lili Mou, Rongyu Cao, Yingwei Ma, Jue Chen, Binhua Li, Zhi Jin, Fei Huang, Yongbin Li, Ge Li
 
 # 📝 Publications 
 
@@ -52,21 +57,18 @@ My current research interests are mainly focused on AI for Software Engineering 
 
 - [**Tiny Paper at ICLR 2024**][A Novel Window-Interaction Module Based on W-MSA](https://openreview.net/pdf?id=ki4R0z0C4K), Ruochen Cui, **<u>Yongding Tao</u>**, Mingjun Ni∗
 
-# 📝 Preprints
-
-- [**arXiv 2508**][RL-PLUS: Countering Capability Boundary Collapse of LLMs in Reinforcement Learning with Hybrid-policy Optimization](https://arxiv.org/abs/2508.00222), Yihong Dong, Xue Jiang, **<u>Yongding Tao</u>**, Huanyu Liu, Kechi Zhang, Lili Mou, Rongyu Cao, Yingwei Ma, Jue Chen, Binhua Li, Zhi Jin, Fei Huang, Yongbin Li, Ge Li
-
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
 <!-- - *2025.08 - *, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2021.09 - 2025.06(Expected)*, University of Electronic Science and Technology of China, School of Mathematics, Bachelor’s Degree
+- *2025.09 - Present*, Peking University, School of Computer Science, Ph.D. Student
+- *2021.09 - 2025.06*, University of Electronic Science and Technology of China, School of Mathematics, Bachelor’s Degree
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.11 - Present*, Research Intern, [Ant Group](https://www.antgroup.com/en), Shenzhen, China.
+- *2024.11 - 2025.05*, Research Intern, [Ant Group](https://www.antgroup.com/en), Shenzhen, China.
