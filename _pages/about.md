@@ -21,9 +21,11 @@ redirect_from:
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-Hi, I'm a final year undergraduate student from School of Mathematics, UESTC, and I am very fortunate to be advised by Prof. [Liangjian Deng](https://liangjiandeng.github.io/). I will begin my Ph.D. studies at the School of Computer Science, Peking University in 2025, under the supervision of Prof. [Ge Li](https://ligechina.github.io/).
+<!-- Hi, I'm a final year undergraduate student from School of Mathematics, UESTC, and I am very fortunate to be advised by Prof. [Liangjian Deng](https://liangjiandeng.github.io/). I will begin my Ph.D. studies at the School of Computer Science, Peking University in 2025, under the supervision of Prof. [Ge Li](https://ligechina.github.io/).
 
-My current research interests are mainly focused on AI for Software Engineering (AI4SE), encompassing software engineering and natural language processing (NLP) technologies.
+My current research interests are mainly focused on AI for Software Engineering (AI4SE), encompassing software engineering and natural language processing (NLP) technologies. -->
+
+Hi, I'm a first year Ph.D. student in the School of Computer Science, Peking University, fortunately supervised by Prof. [Ge Li](https://ligechina.github.io/). My current research interests are mainly focused on LLM Reasoning, Foundation Model Architecture and AI for Software Engineering (AI4SE).
 
 
 <!-- # 🔥 News
@@ -33,7 +35,9 @@ My current research interests are mainly focused on AI for Software Engineering 
 
 # 📝 Preprints
 
-- [**arXiv 2508**][RL-PLUS: Countering Capability Boundary Collapse of LLMs in Reinforcement Learning with Hybrid-policy Optimization](https://arxiv.org/abs/2508.00222), Yihong Dong, Xue Jiang, **<u>Yongding Tao</u>**, Huanyu Liu, Kechi Zhang, Lili Mou, Rongyu Cao, Yingwei Ma, Jue Chen, Binhua Li, Zhi Jin, Fei Huang, Yongbin Li, Ge Li
+- [**arXiv 25.10**] [Detecting Data Contamination from Reinforcement Learning Post-training for Large Language Models](https://arxiv.org/abs/2510.09259), **<u>Yongding Tao</u>** Tian Wang, Yihong Dong, Huanyu Liu, Kechi Zhang, Xiaolong Hu, Ge Li
+
+- [**arXiv 25.08**] [RL-PLUS: Countering Capability Boundary Collapse of LLMs in Reinforcement Learning with Hybrid-policy Optimization](https://arxiv.org/abs/2508.00222), Yihong Dong, Xue Jiang, **<u>Yongding Tao</u>**, Huanyu Liu, Kechi Zhang, Lili Mou, Rongyu Cao, Yingwei Ma, Jue Chen, Binhua Li, Zhi Jin, Fei Huang, Yongbin Li, Ge Li
 
 # 📝 Publications 
 
@@ -49,13 +53,13 @@ My current research interests are mainly focused on AI for Software Engineering 
 </div>
 </div> -->
 
-- [**NeurIPS 2025**][FANformer: Improving Large Language Models Through Effective Periodicity Modeling](https://arxiv.org/abs/2502.21309), Yihong Dong, Ge Li, Xue Jiang, **<u>Yongding Tao</u>**, Kechi Zhang, Hao Zhu, Huanyu Liu, Jiazheng Ding, Jia Li, Jinliang Deng, Hong Mei
+- [**NeurIPS 2025**] [FANformer: Improving Large Language Models Through Effective Periodicity Modeling](https://arxiv.org/abs/2502.21309), Yihong Dong, Ge Li, Xue Jiang, **<u>Yongding Tao</u>**, Kechi Zhang, Hao Zhu, Huanyu Liu, Jiazheng Ding, Jia Li, Jinliang Deng, Hong Mei
 
-- [**NeurIPS 2025**][FAN: Fourier Analysis Networks](https://arxiv.org/pdf/2410.02675), Yihong Dong, Ge Li, **<u>Yongding Tao</u>**, Xue Jiang, Kechi Zhang, Jia Li, Jing Su, Jun Zhang, Jingjing Xu
+- [**NeurIPS 2025**] [FAN: Fourier Analysis Networks](https://arxiv.org/pdf/2410.02675), Yihong Dong, Ge Li, **<u>Yongding Tao</u>**, Xue Jiang, Kechi Zhang, Jia Li, Jing Su, Jun Zhang, Jingjing Xu
 
-- [**ICSE 2025**][ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large Language Models for Code Generation](https://arxiv.org/pdf/2411.07112), Xue Jiang, Yihong Dong, **<u>Yongding Tao</u>**, Huanyu Liu, Zhi Jin, Wenpin Jiao, Ge Li
+- [**ICSE 2025**] [ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large Language Models for Code Generation](https://arxiv.org/pdf/2411.07112), Xue Jiang, Yihong Dong, **<u>Yongding Tao</u>**, Huanyu Liu, Zhi Jin, Wenpin Jiao, Ge Li
 
-- [**Tiny Paper at ICLR 2024**][A Novel Window-Interaction Module Based on W-MSA](https://openreview.net/pdf?id=ki4R0z0C4K), Ruochen Cui, **<u>Yongding Tao</u>**, Mingjun Ni∗
+- [**Tiny Paper at ICLR 2024**] [A Novel Window-Interaction Module Based on W-MSA](https://openreview.net/pdf?id=ki4R0z0C4K), Ruochen Cui, **<u>Yongding Tao</u>**, Mingjun Ni∗
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
