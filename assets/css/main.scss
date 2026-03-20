@@ -87,6 +87,42 @@
 
 }
 
+/* Publication / preprint rows: title line + authors aligned with title (not venue) */
+.pub-list {
+  list-style: disc;
+  padding-left: 1.25rem;
+  margin-left: 0;
+
+  > li {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    grid-template-rows: auto auto;
+    column-gap: 0.5rem;
+    row-gap: 0.3rem;
+    margin-bottom: 1rem;
+    align-items: baseline;
+  }
+
+  .pub-venue {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .pub-title {
+    grid-column: 2;
+    grid-row: 1;
+    min-width: 0;
+  }
+
+  .pub-authors {
+    grid-column: 2;
+    grid-row: 2;
+    font-size: 0.95em;
+    line-height: 1.45;
+    color: #494e52;
+  }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 

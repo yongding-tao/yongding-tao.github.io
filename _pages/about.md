@@ -48,30 +48,52 @@ Hi, I'm a first year Ph.D. student in the School of Computer Science, Peking Uni
 </div>
 </div> -->
 
-- [**ICLR 2026**] [Detecting Data Contamination from Reinforcement Learning Post-training for Large Language Models](https://arxiv.org/abs/2510.09259)
- **<u>Yongding Tao</u>**, Tian Wang, Yihong Dong, Huanyu Liu, Kechi Zhang, Xiaolong Hu, Ge Li
-
-- [**ICASSP 2026**] [TimeDiff: Leveraging Differential Domain Representations for Long Time Series Forecasting](https://github.com/yongding-tao/yongding-tao.github.io/blob/main/papers/TimeDiff.pdf)
-**<u>Yongding Tao</u>**, Xiaohang Zeng*, Qinxu Ding, Yihong Dong, Da Peng, Peng Di, Puzhuo Liu†, Wei Ke†
-
-- [**NeurIPS 2025**] [FANformer: Improving Large Language Models Through Effective Periodicity Modeling](https://arxiv.org/abs/2502.21309)
-Yihong Dong, Ge Li, Xue Jiang, **<u>Yongding Tao</u>**, Kechi Zhang, Hao Zhu, Huanyu Liu, Jiazheng Ding, Jia Li, Jinliang Deng, Hong Mei
-
-- [**NeurIPS 2025**] [FAN: Fourier Analysis Networks](https://arxiv.org/pdf/2410.02675)
-Yihong Dong, Ge Li, **<u>Yongding Tao</u>**, Xue Jiang, Kechi Zhang, Jia Li, Jing Su, Jun Zhang, Jingjing Xu
-
-- [**ICSE 2025**] [ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large Language Models for Code Generation](https://arxiv.org/pdf/2411.07112)
-Xue Jiang, Yihong Dong, **<u>Yongding Tao</u>**, Huanyu Liu, Zhi Jin, Wenpin Jiao, Ge Li
-
-- [**Tiny Paper at ICLR 2024**] [A Novel Window-Interaction Module Based on W-MSA](https://openreview.net/pdf?id=ki4R0z0C4K)
-Ruochen Cui, **<u>Yongding Tao</u>**, Mingjun Ni∗
+<ul class="pub-list" markdown="0">
+<li>
+<span class="pub-venue"><strong>[ICLR 2026]</strong></span>
+<span class="pub-title"><a href="https://arxiv.org/abs/2510.09259">Detecting Data Contamination from Reinforcement Learning Post-training for Large Language Models</a></span>
+<span class="pub-authors"><strong><u>Yongding Tao</u></strong>, Tian Wang, Yihong Dong, Huanyu Liu, Kechi Zhang, Xiaolong Hu, Ge Li</span>
+</li>
+<li>
+<span class="pub-venue"><strong>[ICASSP 2026]</strong></span>
+<span class="pub-title"><a href="https://github.com/yongding-tao/yongding-tao.github.io/blob/main/papers/TimeDiff.pdf">TimeDiff: Leveraging Differential Domain Representations for Long Time Series Forecasting</a></span>
+<span class="pub-authors"><strong><u>Yongding Tao</u></strong>, Xiaohang Zeng*, Qinxu Ding, Yihong Dong, Da Peng, Peng Di, Puzhuo Liu†, Wei Ke†</span>
+</li>
+<li>
+<span class="pub-venue"><strong>[NeurIPS 2025]</strong></span>
+<span class="pub-title"><a href="https://arxiv.org/abs/2502.21309">FANformer: Improving Large Language Models Through Effective Periodicity Modeling</a></span>
+<span class="pub-authors">Yihong Dong, Ge Li, Xue Jiang, <strong><u>Yongding Tao</u></strong>, Kechi Zhang, Hao Zhu, Huanyu Liu, Jiazheng Ding, Jia Li, Jinliang Deng, Hong Mei</span>
+</li>
+<li>
+<span class="pub-venue"><strong>[NeurIPS 2025]</strong></span>
+<span class="pub-title"><a href="https://arxiv.org/pdf/2410.02675">FAN: Fourier Analysis Networks</a></span>
+<span class="pub-authors">Yihong Dong, Ge Li, <strong><u>Yongding Tao</u></strong>, Xue Jiang, Kechi Zhang, Jia Li, Jing Su, Jun Zhang, Jingjing Xu</span>
+</li>
+<li>
+<span class="pub-venue"><strong>[ICSE 2025]</strong></span>
+<span class="pub-title"><a href="https://arxiv.org/pdf/2411.07112">ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large Language Models for Code Generation</a></span>
+<span class="pub-authors">Xue Jiang, Yihong Dong, <strong><u>Yongding Tao</u></strong>, Huanyu Liu, Zhi Jin, Wenpin Jiao, Ge Li</span>
+</li>
+<li>
+<span class="pub-venue"><strong>[Tiny Paper at ICLR 2024]</strong></span>
+<span class="pub-title"><a href="https://openreview.net/pdf?id=ki4R0z0C4K">A Novel Window-Interaction Module Based on W-MSA</a></span>
+<span class="pub-authors">Ruochen Cui, <strong><u>Yongding Tao</u></strong>, Mingjun Ni∗</span>
+</li>
+</ul>
 
 # 📝 Preprints {#preprints}
-- [**arXiv:25.10**] [CodeRL+: Improving Code Generation via Reinforcement with Execution Semantics Alignment](https://arxiv.org/abs/2510.18471)
-Xue Jiang, Yihong Dong, Mengyang Liu, Hongyi Deng, Tian Wang, **<u>Yongding Tao</u>**, Rongyu Cao, Binhua Li, Zhi Jin, Wenpin Jiao, Fei Huang, Yongbin Li, Ge Li
-
-- [**arXiv:25.08**] [RL-PLUS: Countering Capability Boundary Collapse of LLMs in Reinforcement Learning with Hybrid-policy Optimization](https://arxiv.org/abs/2508.00222)
-Yihong Dong, Xue Jiang, **<u>Yongding Tao</u>**, Huanyu Liu, Kechi Zhang, Lili Mou, Rongyu Cao, Yingwei Ma, Jue Chen, Binhua Li, Zhi Jin, Fei Huang, Yongbin Li, Ge Li
+<ul class="pub-list" markdown="0">
+<li>
+<span class="pub-venue"><strong>[arXiv:25.10]</strong></span>
+<span class="pub-title"><a href="https://arxiv.org/abs/2510.18471">CodeRL+: Improving Code Generation via Reinforcement with Execution Semantics Alignment</a></span>
+<span class="pub-authors">Xue Jiang, Yihong Dong, Mengyang Liu, Hongyi Deng, Tian Wang, <strong><u>Yongding Tao</u></strong>, Rongyu Cao, Binhua Li, Zhi Jin, Wenpin Jiao, Fei Huang, Yongbin Li, Ge Li</span>
+</li>
+<li>
+<span class="pub-venue"><strong>[arXiv:25.08]</strong></span>
+<span class="pub-title"><a href="https://arxiv.org/abs/2508.00222">RL-PLUS: Countering Capability Boundary Collapse of LLMs in Reinforcement Learning with Hybrid-policy Optimization</a></span>
+<span class="pub-authors">Yihong Dong, Xue Jiang, <strong><u>Yongding Tao</u></strong>, Huanyu Liu, Kechi Zhang, Lili Mou, Rongyu Cao, Yingwei Ma, Jue Chen, Binhua Li, Zhi Jin, Fei Huang, Yongbin Li, Ge Li</span>
+</li>
+</ul>
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
