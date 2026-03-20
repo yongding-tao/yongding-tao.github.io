@@ -25,23 +25,14 @@ My research interest includes neural machine translation and computer vision. I 
 
 My current research interests are mainly focused on AI for Software Engineering (AI4SE), encompassing software engineering and natural language processing (NLP) technologies. -->
 
-Hi, I'm a first year Ph.D. student in the School of Computer Science, Peking University, fortunately supervised by Prof. [Ge Li](https://ligechina.github.io/). My current research interests are mainly focused on LLM Reasoning, Foundation Model Architecture and AI for Software Engineering (AI4SE).
-
+Hi, I'm a first year Ph.D. student in the School of Computer Science, Peking University, fortunately supervised by Prof. [Ge Li](https://ligechina.github.io/). My current research interests are mainly focused on LLM Reasoning, Foundation Model Architecture and AI for Software Engineering (AI4SE). My CV can be found [here]({% link docs/CV_YongdingTao.pdf %}).
 
 <!-- # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 I have joined Ant Group to conduct research on AI for Software Engineering (AI4SE)! -->
 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Preprints
-- [**arXiv:25.10**] [CodeRL+: Improving Code Generation via Reinforcement with Execution Semantics Alignment](https://arxiv.org/abs/2510.18471)
-Xue Jiang, Yihong Dong, Mengyang Liu, Hongyi Deng, Tian Wang, **<u>Yongding Tao</u>**, Rongyu Cao, Binhua Li, Zhi Jin, Wenpin Jiao, Fei Huang, Yongbin Li, Ge Li
 
-- [**arXiv:25.10**] [Detecting Data Contamination from Reinforcement Learning Post-training for Large Language Models](https://arxiv.org/abs/2510.09259)
- **<u>Yongding Tao</u>** Tian Wang, Yihong Dong, Huanyu Liu, Kechi Zhang, Xiaolong Hu, Ge Li
-
-- [**arXiv:25.08**] [RL-PLUS: Countering Capability Boundary Collapse of LLMs in Reinforcement Learning with Hybrid-policy Optimization](https://arxiv.org/abs/2508.00222)
-Yihong Dong, Xue Jiang, **<u>Yongding Tao</u>**, Huanyu Liu, Kechi Zhang, Lili Mou, Rongyu Cao, Yingwei Ma, Jue Chen, Binhua Li, Zhi Jin, Fei Huang, Yongbin Li, Ge Li
 
 # 📝 Publications 
 
@@ -57,6 +48,12 @@ Yihong Dong, Xue Jiang, **<u>Yongding Tao</u>**, Huanyu Liu, Kechi Zhang, Lili M
 </div>
 </div> -->
 
+- [**ICLR 2026**] [Detecting Data Contamination from Reinforcement Learning Post-training for Large Language Models](https://arxiv.org/abs/2510.09259)
+ **<u>Yongding Tao</u>**, Tian Wang, Yihong Dong, Huanyu Liu, Kechi Zhang, Xiaolong Hu, Ge Li
+
+- [**ICASSP 2026**] [TimeDiff: Leveraging Differential Domain Representations for Long Time Series Forecasting](https://github.com/yongding-tao/yongding-tao.github.io/blob/main/papers/TimeDiff.pdf)
+**<u>Yongding Tao</u>**, Xiaohang Zeng*, Qinxu Ding, Yihong Dong, Da Peng, Peng Di, Puzhuo Liu†, Wei Ke†
+
 - [**NeurIPS 2025**] [FANformer: Improving Large Language Models Through Effective Periodicity Modeling](https://arxiv.org/abs/2502.21309)
 Yihong Dong, Ge Li, Xue Jiang, **<u>Yongding Tao</u>**, Kechi Zhang, Hao Zhu, Huanyu Liu, Jiazheng Ding, Jia Li, Jinliang Deng, Hong Mei
 
@@ -68,6 +65,13 @@ Xue Jiang, Yihong Dong, **<u>Yongding Tao</u>**, Huanyu Liu, Zhi Jin, Wenpin Jia
 
 - [**Tiny Paper at ICLR 2024**] [A Novel Window-Interaction Module Based on W-MSA](https://openreview.net/pdf?id=ki4R0z0C4K)
 Ruochen Cui, **<u>Yongding Tao</u>**, Mingjun Ni∗
+
+# 📝 Preprints
+- [**arXiv:25.10**] [CodeRL+: Improving Code Generation via Reinforcement with Execution Semantics Alignment](https://arxiv.org/abs/2510.18471)
+Xue Jiang, Yihong Dong, Mengyang Liu, Hongyi Deng, Tian Wang, **<u>Yongding Tao</u>**, Rongyu Cao, Binhua Li, Zhi Jin, Wenpin Jiao, Fei Huang, Yongbin Li, Ge Li
+
+- [**arXiv:25.08**] [RL-PLUS: Countering Capability Boundary Collapse of LLMs in Reinforcement Learning with Hybrid-policy Optimization](https://arxiv.org/abs/2508.00222)
+Yihong Dong, Xue Jiang, **<u>Yongding Tao</u>**, Huanyu Liu, Kechi Zhang, Lili Mou, Rongyu Cao, Yingwei Ma, Jue Chen, Binhua Li, Zhi Jin, Fei Huang, Yongbin Li, Ge Li
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
