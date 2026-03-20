@@ -34,7 +34,7 @@ Hi, I'm a first year Ph.D. student in the School of Computer Science, Peking Uni
 
 
 
-# 📝 Publications 
+# 📝 Publications {#publications}
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -66,7 +66,7 @@ Xue Jiang, Yihong Dong, **<u>Yongding Tao</u>**, Huanyu Liu, Zhi Jin, Wenpin Jia
 - [**Tiny Paper at ICLR 2024**] [A Novel Window-Interaction Module Based on W-MSA](https://openreview.net/pdf?id=ki4R0z0C4K)
 Ruochen Cui, **<u>Yongding Tao</u>**, Mingjun Ni∗
 
-# 📝 Preprints
+# 📝 Preprints {#preprints}
 - [**arXiv:25.10**] [CodeRL+: Improving Code Generation via Reinforcement with Execution Semantics Alignment](https://arxiv.org/abs/2510.18471)
 Xue Jiang, Yihong Dong, Mengyang Liu, Hongyi Deng, Tian Wang, **<u>Yongding Tao</u>**, Rongyu Cao, Binhua Li, Zhi Jin, Wenpin Jiao, Fei Huang, Yongbin Li, Ge Li
 
@@ -77,7 +77,7 @@ Yihong Dong, Xue Jiang, **<u>Yongding Tao</u>**, Huanyu Liu, Kechi Zhang, Lili M
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations
+# 📖 Education {#education}
 <!-- - *2025.08 - *, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 - *2025.09 - Present*, Peking University, School of Computer Science, Ph.D. Student
 - *2021.09 - 2025.06*, University of Electronic Science and Technology of China, School of Mathematics, Bachelor’s Degree
@@ -86,5 +86,5 @@ Yihong Dong, Xue Jiang, **<u>Yongding Tao</u>**, Huanyu Liu, Kechi Zhang, Lili M
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
+# 💻 Internships {#internships}
 - *2024.11 - 2025.05*, Research Intern, [Ant Group](https://www.antgroup.com/en), Shenzhen, China.
